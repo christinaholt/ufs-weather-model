@@ -8,8 +8,8 @@
   branch = support/HAFS
 [submodule "FMS"]
   path = FMS
-  url = https://github.com/NOAA-GFDL/FMS
-  branch = release/2020.04
+  url = https://github.com/hafs-community/FMS
+  branch = feature/multi_nests
 [submodule "WW3"]
   path = WW3
   url = https://github.com/NOAA-EMC/WW3
@@ -43,6 +43,6 @@
   url = https://github.com/NOAA-EMC/NEMSdatm
   branch = develop
 [submodule "CDEPS"]
-  path = CDEPS
+  path = CDEPS-interface/CDEPS
   url = https://github.com/hafs-community/CDEPS
-  branch = support/HAFS
+  branch = emc/develop
