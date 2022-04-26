@@ -9,8 +9,8 @@ module-whatis "loads UFS Model prerequisites for AWS/Intel"
 module use /shared/apps/hpc-stack/modulefiles/stack
 
 module load hpc/1.2.0
-module load hpc-intel/2021
-module load hpc-impi/2021
+module load hpc-intel/2022
+module load hpc-impi/2022
 
 module load cmake/3.20.1
 
